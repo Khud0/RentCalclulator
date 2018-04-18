@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rent Calculator", "Rent Calculator\Rent Calculator.csproj", "{35FA1CB9-BD9A-4DFD-B1AC-74F2E234773B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35FA1CB9-BD9A-4DFD-B1AC-74F2E234773B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35FA1CB9-BD9A-4DFD-B1AC-74F2E234773B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35FA1CB9-BD9A-4DFD-B1AC-74F2E234773B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35FA1CB9-BD9A-4DFD-B1AC-74F2E234773B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B916B052-D6FD-4BCB-B06F-CF20ED33DF33}
+	EndGlobalSection
+EndGlobal

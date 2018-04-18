@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\Rent Calculator\Rent Calculator\bin\Debug\Rent Calculator.exe.config
+C:\Users\Ivan\source\repos\Rent Calculator\Rent Calculator\bin\Debug\Rent Calculator.exe
+C:\Users\Ivan\source\repos\Rent Calculator\Rent Calculator\bin\Debug\Rent Calculator.pdb
+C:\Users\Ivan\source\repos\Rent Calculator\Rent Calculator\obj\Debug\Rent_Calculator.FormMain.resources
+C:\Users\Ivan\source\repos\Rent Calculator\Rent Calculator\obj\Debug\Rent_Calculator.FormSettings.resources
+C:\Users\Ivan\source\repos\Rent Calculator\Rent Calculator\obj\Debug\Rent_Calculator.Properties.Resources.resources
+C:\Users\Ivan\source\repos\Rent Calculator\Rent Calculator\obj\Debug\Rent Calculator.csproj.GenerateResource.Cache
+C:\Users\Ivan\source\repos\Rent Calculator\Rent Calculator\obj\Debug\Rent Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Rent Calculator\Rent Calculator\obj\Debug\Rent Calculator.exe
+C:\Users\Ivan\source\repos\Rent Calculator\Rent Calculator\obj\Debug\Rent Calculator.pdb
+C:\Users\Ivan\source\repos\Rent Calculator\Rent Calculator\obj\Debug\Rent Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\source\repos\Rent Calculator\Rent Calculator\bin\Debug\Rent Calculator.exe.manifest
+C:\Users\Ivan\source\repos\Rent Calculator\Rent Calculator\bin\Debug\Rent Calculator.application
+C:\Users\Ivan\source\repos\Rent Calculator\Rent Calculator\obj\Debug\Rent Calculator.exe.manifest
+C:\Users\Ivan\source\repos\Rent Calculator\Rent Calculator\obj\Debug\Rent Calculator.application
